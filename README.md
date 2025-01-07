@@ -21,5 +21,5 @@ curl -sfL https://get.k3s.io | sh -s - server \
 
 
 
-# node token
+# node token for agents!
 K10bfc0fc1743a057067bfa5ea39a1be7ed7a8a94ab849b34e546ff9c68e6e125c8::server:GmeSWrngc3dPNgC
